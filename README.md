@@ -19,8 +19,5 @@
 <a href="https://www.linkedin.com/in/ibrahim-chariai/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Chariai-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
-#include <iostream>
-#include "../emoji.h"
-
 
 

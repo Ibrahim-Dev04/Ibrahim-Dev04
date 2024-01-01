@@ -1,4 +1,4 @@
-<img width="250" align="right" src="<div class="tenor-gif-embed" data-postid="19990794" data-share-method="host" data-aspect-ratio="1.98758" data-width="100%"><a href="https://tenor.com/view/coding-computer-coding-computer-hacking-hacker-gif-19990794">Coding Computer Coding GIF</a>from <a href="https://tenor.com/search/coding+computer-gifs">Coding Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+<img width="250" align="right" src="C:\DVLD project icons\computerGif.gif">
 
 
 <h3 align="center">

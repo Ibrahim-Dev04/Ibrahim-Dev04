@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![C#](https://img.shields.io/badge/-C-sharp-05122A?style=flat&logo=C#&logoColor=563D7C)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#&logoColor=563D7C)&nbsp;
 ![.net framework](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

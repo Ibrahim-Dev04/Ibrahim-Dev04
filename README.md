@@ -18,9 +18,9 @@
 <a href="https://www.linkedin.com/in/ibrahim-chariai/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Chariai-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#&logoColor=563D7C)&nbsp;
+![.net framework](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)&nbsp;
 ![CSS](https://img.shields.io/badge/-SQLserver-05122A?style=flat&logo=Sqlsever&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;

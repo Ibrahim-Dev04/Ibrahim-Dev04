@@ -10,7 +10,7 @@
 </p>
 
 - 🏢 I'm a Back-end developer.
-- 🖥️ Now, I'm specialized as a Back-end .Net developer.
+- 🖥️ Now, I'm specialized as a Back-end(.Net) developer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
   
 ### Connect with Me :
